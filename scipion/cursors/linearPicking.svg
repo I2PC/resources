@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="20"
+   height="20"
+   viewBox="0 0 20 20"
+   id="svg4143"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="linear.svg"
+   inkscape:export-filename="/home/pablo/desarrollo/scipion/software/em/xmipp/resources/linearPicking.png"
+   inkscape:export-xdpi="90.577545"
+   inkscape:export-ydpi="90.577545">
+  <defs
+     id="defs4145" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="16"
+     inkscape:cx="9.8405622"
+     inkscape:cy="10"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1871"
+     inkscape:window-height="1056"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4148">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1032.3622)">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.71573651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 19.141752,1046.2203 -5.283884,-3e-4 3.09e-4,5.2841 5.283954,2e-4 z"
+       id="path4808-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/pablo/desarrollo/scipion/software/em/xmipp/resources/linearPicking.png"
+       inkscape:export-xdpi="90.565849"
+       inkscape:export-ydpi="90.565849" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 0.875,1036.6122 0,-3.375 3.25,0"
+       id="path4904"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pablo/desarrollo/scipion/software/em/xmipp/resources/linearPicking.png"
+       inkscape:export-xdpi="90.565849"
+       inkscape:export-ydpi="90.565849"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.71573627;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 14.141753,1041.2203 -5.2838849,-3e-4 3.091e-4,5.2841 5.2839548,2e-4 z"
+       id="path4808-7-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/pablo/desarrollo/scipion/software/em/xmipp/resources/linearPicking.png"
+       inkscape:export-xdpi="90.565849"
+       inkscape:export-ydpi="90.565849" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.71573627;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 9.1417529,1036.2203 -5.2838848,-3e-4 3.091e-4,5.2841 5.2839547,2e-4 z"
+       id="path4808-7-1-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/pablo/desarrollo/scipion/software/em/xmipp/resources/linearPicking.png"
+       inkscape:export-xdpi="90.565849"
+       inkscape:export-ydpi="90.565849" />
+  </g>
+</svg>
